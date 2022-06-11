@@ -1,11 +1,27 @@
 {
   "name": "num-to-persian",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "convert all of numbers to persian numbers",
   "main": "dist/index.js",
   "scripts": {
+    "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alimortazavi-pr/num-to-persian.git"
+  },
+  "keywords": [
+    "number",
+    "english",
+    "persian",
+    "javascript",
+    "typescript"
+  ],
   "author": "Ali Mortazavi",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alimortazavi-pr/num-to-persian/issues"
+  },
+  "homepage": "https://github.com/alimortazavi-pr/num-to-persian#readme"
 }
