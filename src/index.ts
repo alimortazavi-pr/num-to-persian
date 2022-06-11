@@ -1,5 +1,5 @@
 //Convert numbers
-function convertToPersian(number: number): string {
+function convertToPersian(number: number | string): string {
   return number
     .toString()
     .replace(
