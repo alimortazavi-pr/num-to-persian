@@ -1,6 +1,6 @@
 {
   "name": "num-to-persian",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "convert all of numbers to persian numbers",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
